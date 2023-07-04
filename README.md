@@ -1,4 +1,4 @@
-![Header](../github-header-image.png)
+![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Aamir Khan</h1>
 <h3 align="center">Blockchain enthusiast and software engineering student, shaping the future.</h3>
