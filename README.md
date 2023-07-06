@@ -5,22 +5,26 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir-067&label=Profile%20views&color=0e75b6&style=flat" alt="aamir-067" /> </p>
 
-- 🔭 I’m currently working on **modified Portfolio website**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aamir-067" alt="aamir-067" /></a> </p>
 
-- 🌱 I’m currently learning **react, solidity, Ethereum**
+-   🔭 I’m currently working on **modified Portfolio website**
 
-- 👨‍💻 My Portfolio [https://portfolio-of-aamir.netlify.app](https://portfolio-of-aamir.netlify.app)
+-   🌱 I’m currently learning **react, solidity, Ethereum**
 
-- 💬 Ask me about **javaScript, CSS, HTML, react, Python**
+-   👨‍💻 My Portfolio [https://portfolio-of-aamir.netlify.app](https://portfolio-of-aamir.netlify.app)
 
-- 📫 How to reach me **aamirkhan@engineer.com**
+-   💬 Ask me about **javaScript, CSS, HTML, react, Python**
 
-- ⚡ **I learned every language from scratch through YouTube tutorials.**
+-   📫 How to reach me **aamirkhan@engineer.com**
+
+-   ⚡ Fun Fact about me **I learned every language from scratch through YouTube tutorials.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammadamrkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadamrkhan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22087747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22087747" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/khandj067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khandj067" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aamir-067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aamir-067" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aamir-067&show_icons=true&locale=en" alt="aamir-067" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aamir-067&" alt="aamir-067" /></p>
-
