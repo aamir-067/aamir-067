@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **ERC20 Project**
 
-- 🌱 I’m currently learning **backend and Blockchain application development**
+- 🌱 I’m currently learning **Blockchain application development & Machine learning**
 
 - 👨‍💻Some of my projects are available at [https://portfolio-of-aamir.netlify.app](https://portfolio-of-aamir.netlify.app)
 
