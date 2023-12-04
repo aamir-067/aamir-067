@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aamirkhan@engineer.com**
 
-- ⚡ Fun fact **Learned everthing by myself, gpt and YouTube **
+- ⚡ Fun fact **Learned everthing by myself, gpt and YouTube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
