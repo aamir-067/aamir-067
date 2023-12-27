@@ -51,9 +51,9 @@
   </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aamir067"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aamir067" /></a></p>
+<p whitespace="no-wrap"><a href="https://www.buymeacoffee.com/aamir067"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aamir067" /></a></p>
 <br><br><br><br>
 
-<p><p><img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamir-067&show_icons=true&locale=en&layout=compact" alt="aamir-067" /></p>
-<p><img align="right" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=aamir-067&layout=compact" alt="aamir-067" /></p></p>
+<p><p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamir-067&show_icons=true&locale=en&layout=compact" alt="aamir-067" /></p>
+<p><img align="left" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=aamir-067&layout=compact" alt="aamir-067" /></p></p>
 
