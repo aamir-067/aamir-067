@@ -53,7 +53,7 @@
   </p>
 
 <h3 align="left">Support:</h3>
-<p whitespace="no-wrap"><a href="https://www.buymeacoffee.com/aamir067"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aamir067" /></a></p>
+<p whitespace="no-wrap"><a href="https://www.buymeacoffee.com/aamir067"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="aamir067" /></a></p>
 <br><br><br><br>
 
 <p><p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamir-067&show_icons=true&locale=en&layout=compact" alt="aamir-067" /></p>
