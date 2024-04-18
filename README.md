@@ -1,5 +1,5 @@
 
-<img width="1280" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-953.gif" />
+
 
 <h1 align="center">Hi 👋, I'm Aamir Khan</h1>
 <h3 align="center">A good GPT user 😅😅</h3>
