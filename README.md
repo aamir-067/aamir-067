@@ -47,7 +47,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  
   </p>
 
 <h3 align="left">Support:</h3>
@@ -55,5 +54,5 @@
 <br><br><br><br>
 
 <p><p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamir-067&show_icons=true&locale=en&layout=compact" alt="aamir-067" /></p>
-<p><img align="left" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=aamir-067&layout=compact" alt="aamir-067" /></p></p>
+
 
