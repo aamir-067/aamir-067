@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/OMQ_8w6XoZoAAAAM/mindblown-wow.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir-067&label=Profile%20views&color=0e75b6&style=flat" alt="aamir-067" /> </p>
 
-- 🔭 I’m currently working on Private Project 🚀🚀
+- 🔭 I’m currently working on Side hustle 🚀🚀
 
 - 🌱 I’m currently learning **JavaScript Backend and blockchain development**
 
