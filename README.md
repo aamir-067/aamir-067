@@ -22,10 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/A_a_M_i_R_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="A_a_M_i_R_" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/muhammadamrkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/muhammadamrkhan" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/i-aamir-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/muhammadamrkhan" height="40" width="50" /></a>
 <a href="https://stackoverflow.com/users/22087747/muhammad-aamir-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22087747/muhammad-aamir-khan" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/aamir-067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aamir-067" height="40" width="50" /></a>
-<a href="https://www.youtube.com/channel/UCu8nMRxlHuJnr1Fkes1Xw6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aamir ff s6" height="40" width="50" /></a>
+<a href="https://www.youtube.com/@aamir067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aamir ff s6" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
