@@ -1,23 +1,23 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Aamir Khan</h1>
+<h1 align="center">🇵🇸🇵🇸 Free Palastine 🇵🇸🇵🇸</h1>
 <h3 align="center">A good GPT user 😅😅</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/OMQ_8w6XoZoAAAAM/mindblown-wow.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir-067&label=Profile%20views&color=0e75b6&style=flat" alt="aamir-067" /> </p>
 
-- 🔭 I’m currently working on Side hustle 🚀🚀
+- 🔭 I’m currently working on Company Project
 
-- 🌱 I’m currently learning **JavaScript Backend and blockchain development**
+- 🌱 I’m currently learning **Some Random Stuff**
 
-- 👨‍💻 All of my projects are available at [portfolio-of-aamir.netlify.app](portfolio-of-aamir.netlify.app)
+- 👨‍💻 All of my projects are available at [my GitHub account](github.com/aamir-067)
 
-- 💬 Ask me about **react, javaScript, Ethereum chain, Tron chain**
+- 💬 Ask me about **React, Next, JavaScript, TypeScript, Ethereum, Tron, ReactNative**
 
 - 📫 How to reach me **aamirkhan@engineer.com**
 
-- ⚡ Fun fact **Learned everthing by myself, gpt and YouTube**
+- ⚡ Fun fact **Learned everything from GPT and YouTube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
