@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Morph AI (mobile app to transform pics with AI)
 
-- 🌱 I’m currently learning **Some Random Stuff**
+- 🌱 I’m currently learning **Good shit**
 
 - 👨‍💻 All of my projects are available at [my GitHub account](github.com/aamir-067)
 
