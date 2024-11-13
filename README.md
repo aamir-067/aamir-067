@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/OMQ_8w6XoZoAAAAM/mindblown-wow.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir-067&label=Profile%20views&color=0e75b6&style=flat" alt="aamir-067" /> </p>
 
-- 🔭 I’m currently working on Morph AI (mobile app to transform pics with AI)
+- 🔭 I’m currently working on Company Project
 
 - 🌱 I’m currently learning **Good shit**
 
