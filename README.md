@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Good shit**
 
-- 👨‍💻 All of my projects are available at [my GitHub account](github.com/aamir-067)
+- 👨‍💻 All of my projects are available at [my GitHub account](https://github.com/aamir-067?tab=repositories)
 
 - 💬 Ask me about **React, Next, JavaScript, TypeScript, Ethereum, Tron, ReactNative**
 
