@@ -2,7 +2,7 @@
 
 
 <h1 align="center">🇵🇸🇵🇸 Free Palastine 🇵🇸🇵🇸</h1>
-<h3 align="center">A good GPT user 😅😅</h3>
+<h3 align="center">I use vim btw </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/OMQ_8w6XoZoAAAAM/mindblown-wow.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir-067&label=Profile%20views&color=0e75b6&style=flat" alt="aamir-067" /> </p>
