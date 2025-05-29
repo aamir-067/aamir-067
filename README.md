@@ -3,7 +3,7 @@
 I'm Aamir,  a full stack developer who uses Neovim and writes code(not a vide coder).
 
 you can see my shitty code here on [aamir.067](https://github.com/aamir-067?tab=repositories)  
-visit my portfolio [here](https://portfolio-of-aamir.vercel.app).
+visit my portfolio [here](https://aamir.zoviotech.com).
 mail me  **aamirkhan@engineer.com**.
 
 ---
