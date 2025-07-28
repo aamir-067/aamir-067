@@ -6,7 +6,7 @@
 Just an extraordinary software engineer writes code for living and make awesome products
 I help businesess in building their products and take there headache 
 
-Schedule a meeting → [Now](https://calendly.com/aamirdev/zovio-technologies) <br/>
+Schedule a meeting → [Now](https://calendly.com/aamirdev/1-in-1-meeting) <br/>
 or visit ZovioTech → [https://zoviotech.com](https://zoviotech.com)
 
 <div align="center">
